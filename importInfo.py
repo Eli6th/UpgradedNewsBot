@@ -5,7 +5,7 @@ gmail_from_address_password =
 
 weather_sources = ['OpenWeather']
 place = [['', ''], ['', ''], ['', ''], ['', ''], ['', '']] #enter coordinates from where each user lives
-news_sources = ['GoogleNews', 'NewYorkTimes', ''] #delete as desired
+news_sources = ['GoogleNews', 'NewYorkTimes', 'NewsYCombinator'] #delete as desired
 news_keywords = [
   ['Python Projects', 'Python Automation Ideas'], #will send all of these subjects to the 1st in the array: 'what@gmai.com'
   ['AI', 'Machine Learning', 'Coding Projects'], #will send to the 2nd in the array: 'ever@gmail.com'
